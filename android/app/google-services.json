@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91430439847",
+    "firebase_url": "https://stackchatcanopy-default-rtdb.firebaseio.com",
+    "project_id": "stackchatcanopy",
+    "storage_bucket": "stackchatcanopy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91430439847:android:a0e11c139fb3085c55c482",
+        "android_client_info": {
+          "package_name": "com.stackchatcanopy.canopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91430439847-6phr14op3nkuj6odta0n51qmchjoda1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stackchatcanopy.canopy",
+            "certificate_hash": "6309c05f850652a0d324415f51d0199aca4445d7"
+          }
+        },
+        {
+          "client_id": "91430439847-4ijmfc5kdvbki3tkkak9cdnvep6kvp1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Baw2O24QvwU7Umegf64x_Mer9iObgaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91430439847-4ijmfc5kdvbki3tkkak9cdnvep6kvp1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
